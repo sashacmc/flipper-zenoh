@@ -16,3 +16,4 @@ Connect Flipper UART to Zenoh powered device and launch the app
 ```
 ufbt launch
 ```
+![flipper-zenoh](https://github.com/sashacmc/flipper-zenoh/assets/28735879/4b786a71-17bc-4338-9ec8-31ba33376a0c)
