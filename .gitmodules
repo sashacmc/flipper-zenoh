@@ -1,0 +1,4 @@
+[submodule "lib/zenoh-pico"]
+	path = lib/zenoh-pico
+	url = git@github.com:sashacmc/zenoh-pico.git
+	branch = add-flipper-platform
